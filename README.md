@@ -1,3 +1,5 @@
+![Header](./Header.jpg)
+
 # 💫 About Me:
 I’m currently working on using RAG, Generative AI and Semi-Supervised learning to create AI agents that streamline and improve work in Education, Healthcare, Finance and Security <br>I’m currently learning advanced Python, AI, Machine Learning and a bit of Cybersecurity. 
 
